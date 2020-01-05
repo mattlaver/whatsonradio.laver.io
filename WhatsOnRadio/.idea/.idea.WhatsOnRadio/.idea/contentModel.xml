@@ -50,6 +50,8 @@
           <e p="img" t="Include">
             <e p="app_screen.png" t="Include" />
             <e p="app_screen2.png" t="Include" />
+            <e p="app_store.png" t="Include" />
+            <e p="app_store2.png" t="Include" />
           </e>
           <e p="js" t="Include">
             <e p="site.js" t="Include" />
